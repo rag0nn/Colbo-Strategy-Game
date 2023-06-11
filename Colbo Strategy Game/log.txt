@@ -1,0 +1,28 @@
+1 kodlu Oyuncu 3,2 ye duvar ekledi
+1 kodlu Oyuncu 4,2 ye duvar ekledi
+1 kodlu Oyuncu 5,2 ye duvar ekledi
+1 kodlu Oyuncu 6,2 ye duvar ekledi
+1 kodlu Oyuncu blok 6,5 ye sicradi
+3 kodlu Oyuncu 1,8 ye duvar ekledi
+3 kodlu Oyuncu 2,8 ye duvar ekledi
+3 kodlu Oyuncu 1,7 ye duvar ekledi
+3 kodlu Oyuncu 1,6 ye duvar ekledi
+3 kodlu Oyuncu blok 3,7 ye sicradi
+5 kodlu Oyuncu blok 9,3 ye blok ekledi
+5 kodlu Oyuncu blok 9,4 ye blok ekledi
+5 kodlu Oyuncu blok 8,4 ye blok ekledi
+5 kodlu Oyuncu blok 7,4 ye blok ekledi
+5 kodlu Oyuncu blok 10,4 ye blok ekledi
+5 kodlu Oyuncu blok 3,7den blok sildi
+5 kodlu Oyuncu blok 6,5den blok sildi
+7 kodlu Oyuncu 8,9 ye duvar ekledi
+7 kodlu Oyuncu 8,8 ye duvar ekledi
+7 kodlu Oyuncu 8,10 ye duvar ekledi
+7 kodlu Oyuncu 7,9 ye duvar ekledi
+7 kodlu Oyuncu blok 9,7 ye sicradi
+1 kodlu Oyuncu blok 3,3 ye blok ekledi
+1 kodlu Oyuncu blok 2,3 ye blok ekledi
+1 kodlu Oyuncu blok 1,3 ye blok ekledi
+1 kodlu Oyuncu blok 1,4 ye blok ekledi
+1 kodlu Oyuncu blok 2,4 ye blok ekledi
+1 kodlu Oyuncu blok 9,4den blok sildi
